@@ -192,8 +192,8 @@ match_StiffArm	BAM
 ui_DivisionLeaders	Conf. Leaders
 ui_WildCard	Wild Card
 ui_InTheHunt	praying on a mircale
-ui_SuperBowl	Retro Bowl
-ui_Super#Bowl	Retro#Bowl
+ui_SuperBowl	Super Bowl
+ui_Super#Bowl	Super#Bowl
 ui_Champion	Champion
 ui_PlayOffPicture	Playoff Picture
 msg_PlayOffResult	$teamname1 beat $teamname2 $score1-$score2!
@@ -928,8 +928,8 @@ ui_Remove	Remove
 ui_PlayerHallOfFameEmpty	To put players in your the real ones you need to tag them in the top-left corner of their profile page.
 msg_HofListTooBig	There is no room in the the real ones! Please remove a player before tagging a new one.
 msg_TradeAwayRookie	Warning! Trading a recently signed player has a negative impact on team morale and your fan relationship!
-ui_RetroBowlWinners	Retro Bowl Winners
-btn_RetroBowls	Retro   #Bowls
+ui_RetroBowlWinners	Super Bowl Winners
+btn_RetroBowls	Super   #Bowls
 btn_PlayerHallOfFame	Player   #HOF
 ui_YourHistory	Your History
 ui_Records	Records
@@ -1140,7 +1140,7 @@ msg_Intro_RunningGamepad	Nice! At the start of each play you have the option to 
 msg_Intro_KickingGamepad	Great! Diving can help you reach for a first down or touchdown. It also protects against a fumble!##Finally, kicking. First set the power, then the direction.
 msg_Intro_SuccessPassGamepad	Excellent! This time the quarterback will drop back with the ball slightly...
 msg_Intro_SuccessRunGamepad	You can also run with the quarterback.##Aim a throw then press the SCRAMBLE button.##While running use the RIGHT STICK or DIVE button to dive with the ball.
-ui_BuyMerch	Retro Bowl#T-Shirts
+ui_BuyMerch	Super Bowl#T-Shirts
 ui_RestoreSave	Restore Save Data
 match_TouchBack	Touchback
 btn_MusicBy	Heatley#Bros Music
@@ -1374,11 +1374,11 @@ ui_Info	Info
 btn_GenerateCharacter	Random#Character
 msg_NeedBossHead	You need to select a face for yourself.##Tap on the head coach card to choose an image.
 info_HeadCoach	This is you! Your morale is affected by team morale and fan approval. Your star rating will increase with victories!
-ui_RetroBowlRecord	Retro Bowl Record
+ui_RetroBowlRecord	Super Bowl Record
 tla_RBMVP	hero
 msg_RetroBowlMVPWinner	$playername was named the hero!
 btn_Achievements	Achieve-#ments
-ui_RetroBowlWinners	Retro Bowl Winners
+ui_RetroBowlWinners	Super Bowl Winners
 match_SkipTime	Skip Time
 info_Skill_Buff	Players receive a +1 skill buff if morale is exceptional.
 info_Strength_Buff	Players receive a +1 strength buff if their morale is angry or toxic.
@@ -1423,8 +1423,8 @@ ui_Quit	Quit
 ui_Exhibition	Exhibition
 ui_aa_ShowUI	Show UI
 
-aa_ui_RetroBowl	Retro Bowl+
-aa_game_Title	Retro Bowl+
+aa_ui_RetroBowl	X CLIENT
+aa_game_Title	X CLIENT
 aa_msg_Welcome	Welcome to Retro Bowl+!##You are about to start your first season as the head coach of a pro football team.##The path to success is an arduous one but if you believe in yourself and can inspire your team then glory awaits!#
 aa_msg_Update	Welcome to Retro Bowl+!
 aa_info_StartWithFave	Retro Bowl+ is a game all about building a legacy. If you choose to start with your favorite team that's fine but the story of your career will be a simple one.##Why not start out at a low ranked team and prove yourself before receiving that dream offer from your favorite team?
