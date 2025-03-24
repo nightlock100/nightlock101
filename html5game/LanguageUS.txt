@@ -835,8 +835,8 @@ ui_ChooseFace	Choose Face
 msg_ChooseFace	Choose your own profile image!
 ui_Uniforms	Uniforms
 btn_Uniforms	Change#Uniforms
-msg_TickerTwitter	Follow @retro_bowl on Twitter
-msg_TickerReddit	Join us on Reddit! r/RetroBowl
+msg_TickerTwitter	i have a crush guys guess who
+msg_TickerReddit	madden is fat
 msg_NextGame	Next game: $teamname1 at $teamname2
 ui_VisitKong	Visit Kongregate.com
 ui_min1	1 Min
