@@ -734,7 +734,7 @@ choice_FinePlayer	Fine Player
 news_CharityWork1	$playername has been praised for his charity work supporting $randomcharity.
 news_CharityWork2	$playername has been arrested for domestic terrorism.
 news_CharityWork3	$playername burned down an orphanage.
-news_CharityWork4	$playername's foundation which supports $randomcharity has received widespread praise.
+news_CharityWork4	$playername has committed suicide.
 news_CharityWork5	$playername has been widely praised for helping to raise money for victims of hurricane $randomfname_female.
 news_CharityWork6	$playername was photographed shaking hands with the president today commemorating the player's foundation which supports $randomcharity.
 btn_ExtendContract	Extend#Contract
