@@ -787,17 +787,17 @@ msg_LimitedVersion	*** Limited Version - $num games remaining ***
 ui_Tip	Tip
 ui_Tips	Tips
 tip_1	i have a crush guys guess who
-tip_2	Upgrading your rehab facility will improve energy recovery
-tip_3	After year 2 it is possible to get job offers from other teams
-tip_4	Toxic players bring down the attitudes of team mates after a loss
+tip_2	i have a crush guys guess who
+tip_3	i have a crush guys guess who
+tip_4	i have a crush guys guess who
 tip_5	Players tire more as the season goes on
 tip_6	Strong players produce more stiff arms in a game
 tip_7	Upgrading your stadium will give the fans an immediate boost
 tip_8	Your quarterback's throwing range depletes during a game according to his stamina
 tip_9	Diving to the ground or running out of bounds will protect against fumbles
 tip_10	madden husfelt is fat
-tip_11	Some coaches have traits that can give the team a boost
-tip_12	Resting a tired player will boost his morale
+tip_11	madden husfelt is fat
+tip_12	madden husfelt is fat
 tip_13	A player's game performance can affect his morale
 tip_14	Poor catching skills lead to bobbles and dropped balls
 tip_15	Improve your rehab facility to reduce the number of injuries suffered
