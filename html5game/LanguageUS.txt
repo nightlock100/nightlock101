@@ -1025,8 +1025,8 @@ favorite_DoingWellReturn	Fans of $favteamname, currently $record, have been call
 favorite_DoingPoorly	It's no secret that $favteamname owner will be looking for a new head coach at the end of the season but it seems unlikely that $yourname will be amongst the candidates.
 msg_SalaryCheckRoster	You need to reduce your roster to 10 players before you can reduce the salary cap.
 ui_Update	Update
-ui_Roster10	10 Man
-ui_Roster12	12 Man
+ui_Roster10	12 Man
+ui_Roster12	16 Man
 msg_FansGood1	The fanbase has grown this season but expectations are higher!
 msg_FansGood2	ur getting fired bud
 msg_FansGood3	lock in fr
