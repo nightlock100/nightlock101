@@ -391,6 +391,7 @@ grid-column: span 2;
         <button id="stadium" class="stadium">Stadium</button>
         <button id="training">Training</button>
         <button id="rehab">Rehab</button>
+        <button id="fans">Fans</button>
         <button id="export">Export</button>
         <button id="import" class="data">Import Data</button>
         <button onclick="changeBackgroundColor()" class="big">CONSOLE COLOR</button>
@@ -457,6 +458,14 @@ grid-column: span 2;
                 data = data.replace(/stadium=[^\n]*/g, "stadium=10");
                 saveIniFile(data);
                 alert("Stadium set to 10");
+            });
+        });
+
+        document.getElementById("fans").addEventListener("click", function() {
+            loadIniFile((data) => {
+                data = data.replace(/fans=[^\n]*/g, "stadium=100");
+                saveIniFile(data);
+                alert("fans set to 100");
             });
         });
 
